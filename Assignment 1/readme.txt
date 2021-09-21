@@ -1,1 +1,1 @@
-
+The goal of this assignment was to review the basic concepts of object oriented programming. In my case, I decided to use Java because that is the programming language that I have the most experience with at the moment.  
